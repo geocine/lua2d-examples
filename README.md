@@ -1,7 +1,7 @@
 lua2d-examples
 ==============
 
-*2d game examples I made using [Love2d] (https://love2d.org/) , a Lua Game Engine.*
+*2d game examples I made using [Love2d](https://love2d.org/) , a Lua Game Engine.*
 
 * Box2DExample - attaching multiple polygons to an irregularly shaped object with box2d physics capabilities. Created polygon shapes using [Texture Packer](http://www.codeandweb.com/texturepacker)
 * LifeCycle - simple demonstration of the love2d framework lifecycle
